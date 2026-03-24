@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Buddhika Lakshan! 👋
 
-<!--
-**blakshan-dev/blakshan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 BIT Student at UCSC | Tech Enthusiast | Content Creator
 
-Here are some ideas to get you started:
+I'm a passionate student from Sri Lanka, currently pursuing my **Bachelor of Information Technology (BIT)** at the **University of Colombo School of Computing (UCSC)**. I love exploring new technologies, cloud computing, and digital design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+- **Operating Systems:** Ubuntu Linux, Windows
+- **Hardware:** PC Maintenance & Customization
+- **AI Tools:** AI Content Creation (Text-to-Image/Video)
+- **Other:** IoT with ESP32, Mobile Photography Optimization
+
+---
+
+### 🌐 Connect with Me
+- **Facebook:** [Buddhika Lakshan](https://www.facebook.com/share/189MUgWpZQ/)
+- **YouTube:** [SL LAKSHAN](https://www.youtube.com/channel/UCmnuE6BRQz8VPqebTRLBFKQ)
+
+---
+
+### 📊 GitHub Stats
+![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=blakshan-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakshan-dev&layout=compact&theme=radical)
