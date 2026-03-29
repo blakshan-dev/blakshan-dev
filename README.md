@@ -11,7 +11,9 @@ I'm a passionate student from Sri Lanka, currently pursuing my **Bachelor of Inf
 - **Hardware:** PC Maintenance & Customization
 - **AI Tools:** AI Content Creation (Text-to-Image/Video)
 - **Other:** IoT with ESP32, Mobile Photography Optimization
-
+- **Cloud & Networking:** Microsoft Azure ($100 Student Credit 🚀), VPS Management, V2Ray (VLESS+Reality)
+- **Development Tools:** Visual Studio Code, GitHub Copilot
+- **AI Tools:** Claude 4.5, GPT-5, Gemini 3 Pro
 ---
 
 ### 🌐 Connect with Me
