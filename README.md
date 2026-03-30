@@ -14,6 +14,8 @@ I'm a passionate student from Sri Lanka, currently pursuing my **Bachelor of Inf
 - **Cloud & Networking:** Microsoft Azure ($100 Student Credit 🚀), VPS Management, V2Ray (VLESS+Reality)
 - **Development Tools:** Visual Studio Code, GitHub Copilot
 - **AI Tools:** Claude 4.5, GPT-5, Gemini 3 Pro
+- **GitHub Actions**
+- **Microsoft Azure Student**
 ---
 
 ### 🌐 Connect with Me
